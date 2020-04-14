@@ -3,8 +3,8 @@
 namespace ConsoleApp1
 {
 
-    public class ICoffeeMachin=e
-    {
+    public class ICoffeeMachin
+    { 
         public static void main(String[] args)
         {
             ICofeeMachine x = new CofeeMachine();
@@ -135,7 +135,6 @@ namespace ConsoleApp1
         // making in 
         public enum coffeeTypeList { espresso, beans, milk, chocolate, blah}  //coffee type  suger???
     
-
     }
 
 }
